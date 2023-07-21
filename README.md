@@ -1,4 +1,3 @@
-# cv
 # Mi Curriculum Vitae
 
 Este es mi Curriculum Vitae (CV) en formato PDF. Puedes descargarlo y revisar mi experiencia,
@@ -6,7 +5,7 @@ habilidades y proyectos en el campo de tecnologías de la información.
 
 ## Descargar CV
 
-- [Descargar CV en formato PDF](enlace_a_tu_cv.pdf)
+- [Descargar CV en formato PDF](https://github.com/HoracioIsmael/cv/blob/main/Horacio-Correa-CV.pdf)
 
 ## Acerca de mí
 

@@ -17,7 +17,7 @@ y ampliar mis conocimientos  en el campo de tecnologías de la información y se
 Si deseas contactarme o tienes alguna consulta, puedes hacerlo a través de las siguientes vías:
 
 - Correo electrónico: horacioismaelcorrea@gmail.com
-- Sitio web: https://www.portfolio-horacio-correa.netlify.app
-- LinkedIn: linkedin.com/in/horacio-ismael-correa-212b23251
+- Sitio web: (https://www.portfolio-horacio-correa.netlify.app)
+- LinkedIn: (https://www.linkedin.com/in/horacio-ismael-correa-212b23251)
 
 ¡Gracias por visitar mi repositorio de CV!
